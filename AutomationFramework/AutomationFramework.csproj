@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <IsPackable>false</IsPackable>
-    <Configurations>Debug;Release;Chrome.Preprod;Firefox.Preprod;Galaxy.S20.Preprod;Galaxy.S10.Preprod;Iphone.12Pro.Preprod;Galaxy.S10.Test</Configurations>
+    <Configurations>Debug;Release;Chrome.Preprod;Firefox.Preprod;mobile.Iphone.12Pro.Preprod</Configurations>
     <OutputType>Library</OutputType>
   </PropertyGroup>
 	

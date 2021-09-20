@@ -10,10 +10,6 @@ Global
 		Chrome.Preprod|Any CPU = Chrome.Preprod|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Firefox.Preprod|Any CPU = Firefox.Preprod|Any CPU
-		Galaxy.S10.Preprod|Any CPU = Galaxy.S10.Preprod|Any CPU
-		Galaxy.S10.Test|Any CPU = Galaxy.S10.Test|Any CPU
-		Galaxy.S20.Preprod|Any CPU = Galaxy.S20.Preprod|Any CPU
-		Iphone.12Pro.Preprod|Any CPU = Iphone.12Pro.Preprod|Any CPU
 		PreprodDebug|Any CPU = PreprodDebug|Any CPU
 		PreprodRelease|Any CPU = PreprodRelease|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -27,14 +23,6 @@ Global
 		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Firefox.Preprod|Any CPU.ActiveCfg = Firefox.Preprod|Any CPU
 		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Firefox.Preprod|Any CPU.Build.0 = Firefox.Preprod|Any CPU
-		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S10.Preprod|Any CPU.ActiveCfg = Galaxy.S10.Preprod|Any CPU
-		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S10.Preprod|Any CPU.Build.0 = Galaxy.S10.Preprod|Any CPU
-		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S10.Test|Any CPU.ActiveCfg = Galaxy.S10.Test|Any CPU
-		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S10.Test|Any CPU.Build.0 = Galaxy.S10.Test|Any CPU
-		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S20.Preprod|Any CPU.ActiveCfg = Galaxy.S20.Preprod|Any CPU
-		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S20.Preprod|Any CPU.Build.0 = Galaxy.S20.Preprod|Any CPU
-		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Iphone.12Pro.Preprod|Any CPU.ActiveCfg = Iphone.12Pro.Preprod|Any CPU
-		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Iphone.12Pro.Preprod|Any CPU.Build.0 = Iphone.12Pro.Preprod|Any CPU
 		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.PreprodDebug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.PreprodRelease|Any CPU.ActiveCfg = Release|Any CPU
 		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
