@@ -107,6 +107,9 @@
     <PackageReference Include="SpecFlow.Plus.LivingDocPlugin" Version="3.9.42" />
     <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.9.22" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    <Reference Include="EnterpriseFramework">
+      <HintPath>..\..\EnterpriseFramework\EnterpriseFramework\bin\Release\netcoreapp3.1\EnterpriseFramework.dll</HintPath>
+    </Reference>
   
 	<None Update="appsettings.$(Configuration).json">
 		<DependentUpon>appsettings.json</DependentUpon>
@@ -140,12 +143,6 @@
       <Visible>$(UsingMicrosoftNETSdk)</Visible>
       <CodeBehindFile>%(RelativeDir)%(Filename).feature$(DefaultLanguageSourceExtension)</CodeBehindFile>
     </SpecFlowFeatureFiles>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="EnterpriseFramework">
-      <HintPath>..\..\specflow-csharp-core-framework\EnterpriseFramework\bin\Release\netcoreapp3.1\EnterpriseFramework.dll</HintPath>
-    </Reference>
   </ItemGroup>
 	
 	
