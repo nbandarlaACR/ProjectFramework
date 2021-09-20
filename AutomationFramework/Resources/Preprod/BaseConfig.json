@@ -1,0 +1,5 @@
+{
+  "Environment": "preprod",
+
+  "newaccount": "https://SD1-LB-PP-INT-Digital-APP/api/v1/test/accounts" 
+}

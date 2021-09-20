@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomationFramework", "AutomationFramework\AutomationFramework.csproj", "{AB084EE4-000F-4797-B7CC-2DB606C431BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Chrome.Preprod|Any CPU = Chrome.Preprod|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Firefox.Preprod|Any CPU = Firefox.Preprod|Any CPU
+		Galaxy.S10.Preprod|Any CPU = Galaxy.S10.Preprod|Any CPU
+		Galaxy.S10.Test|Any CPU = Galaxy.S10.Test|Any CPU
+		Galaxy.S20.Preprod|Any CPU = Galaxy.S20.Preprod|Any CPU
+		Iphone.12Pro.Preprod|Any CPU = Iphone.12Pro.Preprod|Any CPU
+		PreprodDebug|Any CPU = PreprodDebug|Any CPU
+		PreprodRelease|Any CPU = PreprodRelease|Any CPU
+		Release|Any CPU = Release|Any CPU
+		TestDebug|Any CPU = TestDebug|Any CPU
+		TestRelease|Any CPU = TestRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Chrome.Preprod|Any CPU.ActiveCfg = Chrome.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Chrome.Preprod|Any CPU.Build.0 = Chrome.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Firefox.Preprod|Any CPU.ActiveCfg = Firefox.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Firefox.Preprod|Any CPU.Build.0 = Firefox.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S10.Preprod|Any CPU.ActiveCfg = Galaxy.S10.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S10.Preprod|Any CPU.Build.0 = Galaxy.S10.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S10.Test|Any CPU.ActiveCfg = Galaxy.S10.Test|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S10.Test|Any CPU.Build.0 = Galaxy.S10.Test|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S20.Preprod|Any CPU.ActiveCfg = Galaxy.S20.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Galaxy.S20.Preprod|Any CPU.Build.0 = Galaxy.S20.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Iphone.12Pro.Preprod|Any CPU.ActiveCfg = Iphone.12Pro.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Iphone.12Pro.Preprod|Any CPU.Build.0 = Iphone.12Pro.Preprod|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.PreprodDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.PreprodRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.TestDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB084EE4-000F-4797-B7CC-2DB606C431BC}.TestRelease|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69E07E8-3B5B-4508-8A9A-F153950001CF}
+	EndGlobalSection
+EndGlobal

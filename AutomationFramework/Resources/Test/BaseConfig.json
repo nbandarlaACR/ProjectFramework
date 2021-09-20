@@ -1,0 +1,5 @@
+{
+  "Environment": "test",
+
+  "newaccount": "http://CFSysTest1:8080/api/v1/test/accounts",  
+}
